@@ -1,5 +1,6 @@
 # Course-Certificates
 The purpose of this repository is to store my LinkedIn Learning Certificates
+
 Certificates:
 1. LinkedIn Learning Introducing Jupyter
 2. LinkedIn Learning Python Quick Start
